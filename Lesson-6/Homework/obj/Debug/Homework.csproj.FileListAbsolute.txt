@@ -1,0 +1,9 @@
+C:\Users\PeeWee\source\repos\Lesson-6\Homework\bin\Debug\Homework.exe.config
+C:\Users\PeeWee\source\repos\Lesson-6\Homework\bin\Debug\Homework.exe
+C:\Users\PeeWee\source\repos\Lesson-6\Homework\bin\Debug\Homework.pdb
+C:\Users\PeeWee\source\repos\Lesson-6\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\Lesson-6\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\Lesson-6\Homework\obj\Debug\Homework.exe
+C:\Users\PeeWee\source\repos\Lesson-6\Homework\obj\Debug\Homework.pdb
+C:\Users\PeeWee\source\repos\Lesson-6\Homework\bin\Debug\Task2File.txt
+C:\Users\PeeWee\source\repos\Lesson-6\Homework\bin\Debug\StudentList.txt
