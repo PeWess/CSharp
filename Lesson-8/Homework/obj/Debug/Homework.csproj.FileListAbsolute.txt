@@ -1,0 +1,15 @@
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\bin\Debug\Homework.exe.config
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\bin\Debug\Homework.exe
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\bin\Debug\Homework.pdb
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\bin\Debug\pa-Guru\Homework.resources.dll
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\Homework.Form1.resources
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\Homework.Properties.Resources.resources
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\Homework.Form1.pa-Guru.resources
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\Homework.csproj.GenerateResource.cache
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\pa-Guru\Homework.resources.dll
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\Homework.exe
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\Homework.pdb
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\Homework.About.resources
+C:\Users\PeeWee\source\repos\Lesson-8\Homework\obj\Debug\Homework.Game.resources
