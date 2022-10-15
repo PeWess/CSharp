@@ -1,0 +1,12 @@
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\bin\Debug\Homewrok.exe.config
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\bin\Debug\Homewrok.exe
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\bin\Debug\Homewrok.pdb
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\obj\Debug\Homewrok.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\obj\Debug\Homewrok.Menu.resources
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\obj\Debug\Homewrok.Properties.Resources.resources
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\obj\Debug\Homewrok.csproj.GenerateResource.cache
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\obj\Debug\Homewrok.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\obj\Debug\Homewrok.exe
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\obj\Debug\Homewrok.pdb
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\obj\Debug\Homewrok.DoublerGame.resources
+C:\Users\PeeWee\source\repos\Lesson-7\Homewrok\obj\Debug\Homewrok.GuessGame.resources

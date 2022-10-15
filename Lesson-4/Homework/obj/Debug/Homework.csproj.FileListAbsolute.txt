@@ -1,0 +1,12 @@
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\bin\Debug\Homework.exe.config
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\bin\Debug\Homework.exe
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\bin\Debug\Homework.pdb
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\obj\Debug\Homework.csproj.CoreCompileInputs.cache
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\obj\Debug\Homework.exe
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\obj\Debug\Homework.pdb
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\bin\Debug\SimpleArrayFile.txt
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\bin\Debug\SimpleArrayResult.txt
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\bin\Debug\LoginsAndPasswords.txt
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\bin\Debug\TwoDimensionalArrayFile.txt
+C:\Users\PeeWee\source\repos\Lesson-4\Homework\bin\Debug\TwoDimensionalArrayFileResult.txt
